@@ -1,0 +1,15 @@
+{
+  "QualityValue": 5,
+  "ItemTooltipTexture": "UI/ItemQualities/Tooltips/ItemTooltipCreator.png",
+  "ItemTooltipArrowTexture": "UI/ItemQualities/Tooltips/ItemTooltipCreatorArrow.png",
+  "SlotTexture": "UI/ItemQualities/Slots/SlotCreator.png",
+  "BlockSlotTexture": "UI/ItemQualities/Slots/SlotCreator.png",
+  "SpecialSlotTexture": "UI/ItemQualities/Slots/SlotCreator.png",
+  "TextColor": "#0080ff",
+  "LocalizationKey": "Backend",
+  "VisibleQualityLabel": true,
+  "RenderSpecialSlot": true,
+  "ItemEntityConfig": {
+    "ParticleSystemId": "Drop_Legendary"
+  }
+}

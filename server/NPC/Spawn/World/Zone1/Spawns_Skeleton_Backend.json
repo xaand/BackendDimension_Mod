@@ -1,0 +1,17 @@
+{
+  "Environments": [
+    "Env_Back"
+  ],
+  "DayTimeRange": [
+    1,
+    24
+  ],
+  "NPCs": [
+    {
+      "Id": "Backend_Skeleton",
+      "Weight": 10,
+      "SpawnBlockSet": "Rock",
+      "Flock": "Group_Medium"
+    }
+  ]
+}

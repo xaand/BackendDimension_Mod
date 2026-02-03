@@ -1,0 +1,14 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "Backend_Firewall",
+      "Weight": 100,
+      "Flock": "Group_Small",
+      "RealtimeRespawnTime": 2000
+    }
+  ],
+  "ExclusionRadius": 5,
+  "MaxDropHeight": 4,
+  "RealtimeRespawn": true
+}

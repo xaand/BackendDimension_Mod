@@ -1,0 +1,9 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "AshesBackend",
+      "FixedRotation": true
+    }
+  ],
+  "CullDistance": 30
+}

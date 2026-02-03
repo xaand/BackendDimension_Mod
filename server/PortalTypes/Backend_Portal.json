@@ -1,0 +1,23 @@
+{
+  "InstanceId": "Backend_Instance",
+  "Description": {
+    "DisplayName": "Backend Dimension",
+    "FlavorText": "This dimension exists beyond the surface of the game, a mechanical world hidden behind reality itself. Enter the Backend, defeat the machines, gather rare resources, and forge the ultimate weapon.",
+    "ThemeColor": "#009dff",
+    "SplashImage": "BackendArtwork.png",
+    "Tips": [
+      "Don't go in unprepared! High difficulty."
+    ]
+  },
+  "PlayerSpawn": {
+    "Y": 100,
+    "Center": {
+      "X": 22,
+      "Z": -2,
+      "Y": 130
+    },
+    "Yaw" : 90,
+    "ScanHeight": 0
+  }
+}
+Don't go in unprepared! High difficulty.

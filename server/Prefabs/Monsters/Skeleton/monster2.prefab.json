@@ -1,0 +1,70 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Slate_Cobble"
+    }
+  ],
+  "fluids": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Skeleton_Back"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Skeleton_Back",
+          "RespawnTime": 1.0,
+          "SpawnCount": 0
+        },
+        "Transform": {
+          "Position": {
+            "X": 0.4846852952986467,
+            "Y": 1.0,
+            "Z": 0.3940713958900943
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 3.079472780227661,
+            "Roll": 0.0
+          }
+        },
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "0Du6azJFNIezy1gBBnp8FA==",
+            "$type": "04"
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 3.079472780227661,
+            "Roll": 0.0
+          }
+        }
+      }
+    }
+  ]
+}

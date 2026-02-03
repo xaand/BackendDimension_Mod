@@ -1,0 +1,106 @@
+{
+  "Parent": "Spider",
+  "Model": "NPC/Spider/Model.blockymodel",
+  "Texture": "NPC/Spider/Texture.png",
+  "EyeHeight": 0.6,
+  "CrouchOffset": -0.1,
+  "Camera": {
+    "Pitch": {
+      "AngleRange": {
+        "Max": 15,
+        "Min": -45
+      },
+      "TargetNodes": [
+        "Head"
+      ]
+    },
+    "Yaw": {
+      "AngleRange": {
+        "Max": 30,
+        "Min": -30
+      },
+      "TargetNodes": [
+        "Head"
+      ]
+    }
+  },
+  "Particles": [
+    {
+      "RotationOffset": {
+        "Pitch": -135
+      },
+      "SystemId": "ShadowParticle",
+      "TargetNodeName": "Head"
+    }
+  ],
+  "RandomAttachmentSets": {
+    "Core": {
+      "Core1": {
+        "Model": "NPC/Spider/att/Core.blockymodel",
+        "Texture": "NPC/texture.png",
+        "Weight": 1
+      },
+      "Core2": {
+        "Model": "NPC/Spider/att/Arma.blockymodel",
+        "Texture": "NPC/texture.png",
+        "Weight": 1
+      },
+      "Core3": {
+        "Model": "NPC/Spider/att/Wire1.blockymodel",
+        "Texture": "NPC/texture.png"
+      }
+    },
+    "Wire": {
+      "Wire1": {
+        "Model": "NPC/Spider/att/Wire1.blockymodel",
+        "Texture": "NPC/texture.png"
+      },
+      "Wire2": {
+        "Model": "NPC/Spider/att/Wire2.blockymodel",
+        "Texture": "NPC/texture.png"
+      },
+      "Wire3": {
+        "Model": "NPC/Spider/att/Wire3.blockymodel",
+        "Texture": "NPC/texture.png"
+      },
+      "Wire4": {
+        "Model": "NPC/Spider/att/Wire4.blockymodel",
+        "Texture": "NPC/texture.png"
+      },
+      "Wire5": {
+        "Model": "NPC/Spider/att/Wire5.blockymodel",
+        "Texture": "NPC/texture.png"
+      },
+      "Wire6": {
+        "Model": "NPC/Spider/att/Wire6.blockymodel",
+        "Texture": "NPC/texture.png"
+      }
+    },
+    "Wire2": {
+      "Wire1": {
+        "Model": "NPC/Spider/att/Wire1.blockymodel",
+        "Texture": "NPC/texture.png"
+      },
+      "Wire2": {
+        "Model": "NPC/Spider/att/Wire2.blockymodel",
+        "Texture": "NPC/texture.png"
+      },
+      "Wire3": {
+        "Model": "NPC/Spider/att/Wire3.blockymodel",
+        "Texture": "NPC/texture.png"
+      },
+      "Wire4": {
+        "Model": "NPC/Spider/att/Wire4.blockymodel",
+        "Texture": "NPC/texture.png"
+      },
+      "Wire5": {
+        "Model": "NPC/Spider/att/Wire5.blockymodel",
+        "Texture": "NPC/texture.png"
+      },
+      "Wire6": {
+        "Model": "NPC/Spider/att/Wire6.blockymodel",
+        "Texture": "NPC/texture.png"
+      }
+    }
+  }
+}

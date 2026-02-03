@@ -1,0 +1,14 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "Backend_Camera",
+      "Weight": 100,
+      "Flock": "Group_Large",
+      "RealtimeRespawnTime": 5
+    }
+  ],
+  "ExclusionRadius": 5,
+  "MaxDropHeight": 4,
+  "RealtimeRespawn": true
+}

@@ -1,0 +1,14 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "Backend_Spider",
+      "Weight": 100,
+      "Flock": "Group_Small",
+      "RealtimeRespawnTime": 5
+    }
+  ],
+  "ExclusionRadius": 5,
+  "MaxDropHeight": 4,
+  "RealtimeRespawn": true
+}
