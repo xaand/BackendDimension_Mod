@@ -1,3 +1,6 @@
+![Logo](https://i.imgur.com/2GCzSA4.png)
+
+
 Backend – The Dimension Behind
 
 Backend is a mod that adds a new and mysterious dimension to the game: the Backend — the “backside” of the game’s reality. A place where the world ceases to be organic and reveals its true structure: machines, broken code, and creatures rebuilt in metal.
@@ -16,3 +19,17 @@ Do you dare to enter?
 
 
 To access the dimension, you must craft a key at the Alchemy Table after reaching 100 Memories (or use /memories unlockall if you have OP). Once crafted, the key allows you to enter the dimension through the Ancient Gate.
+
+
+![Screenshot](https://i.imgur.com/6ng3wKm.png)
+
+![Screenshot](https://i.imgur.com/Fjtx5AH.png)
+
+![Screenshot](https://i.imgur.com/VTrmrZe.png)
+
+![Screenshot](https://i.imgur.com/DEaBT7x.png)
+
+![Screenshot](https://i.imgur.com/785Gxek.png)
+
+![Screenshot](https://i.imgur.com/DNWYI5f.png )
+
