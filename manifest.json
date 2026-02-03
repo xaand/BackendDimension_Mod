@@ -1,0 +1,20 @@
+{
+  "Group": "XandGhost",
+  "Name": "BackendDimension",
+  "Version": "1.0.0",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "XandGhost",
+      "Email": "",
+      "Url": "xandghost.com"
+    }
+  ],
+  "Website": "xandghost.com",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
