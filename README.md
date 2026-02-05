@@ -1,5 +1,13 @@
 ![Logo](https://i.imgur.com/2GCzSA4.png)
 
+##### ATENTION
+Please extract the zip to folder inside the /mods folder like that:
+![zip](https://i.imgur.com/evfv10L.png)
+
+The key will show on Arcanist table like this:
+![craft](https://i.imgur.com/STJYImu.png)
+
+
 
 Backend – The Dimension Behind
 
