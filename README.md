@@ -2,14 +2,14 @@
 
 ##### ATENTION
 Please extract the zip to folder inside the /mods folder like that:
-:
+<br>
 ![zip](https://i.imgur.com/evfv10L.png)
 
 The key will show on Arcanist table like this:
-:
+<br>
 ![craft](https://i.imgur.com/STJYImu.png)
 
-
+<br><br><br>
 
 Backend – The Dimension Behind
 
